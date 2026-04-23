@@ -1,0 +1,6 @@
+{
+  "name": "Boston Housing Regression Analysis",
+  "description": "Interactive presentation and predictor for a Multiple Linear Regression model on Boston house prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
